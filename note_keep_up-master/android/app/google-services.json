@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "761363975169",
+    "project_id": "notekep-64473",
+    "storage_bucket": "notekep-64473.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761363975169:android:84cb27e67a45dd4e780400",
+        "android_client_info": {
+          "package_name": "com.example.note_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761363975169-kv94c7th6rmluh7vivr5hum1k7sirf3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.note_app",
+            "certificate_hash": "29f737c7ab444088cb65960ec5f0ce5d0b96e433"
+          }
+        },
+        {
+          "client_id": "761363975169-nsar3dfcs29v64n3p4k2ofq0lnppgp71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo-geAZQXmuBcYfJRPfw7FnCY1_550Hws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761363975169-nsar3dfcs29v64n3p4k2ofq0lnppgp71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

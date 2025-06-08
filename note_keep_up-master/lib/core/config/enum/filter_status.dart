@@ -1,0 +1,1 @@
+enum FilterStatus { all, notStarted, inProgress, completed } 
